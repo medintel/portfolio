@@ -1,5 +1,5 @@
 p.intro {
-  margin: 12px;
+  margin: 10px;
   font-style: italic;
   font-weight: bold;
   color: darkblue;
@@ -8,10 +8,6 @@ p.intro {
 .index {
   float: left;
   background-color: lightseagreen;
-}
-
-.about{
-
 }
 
 .highlight {
