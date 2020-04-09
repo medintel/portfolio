@@ -5,12 +5,18 @@ p.intro {
   color: darkblue;
   }
 
-.index {
+.sideindex {
   float: left;
-  background-color: lightseagreen;
+  background-color: rgb(54, 241, 232);
+  border: 2px solid yellow;
+  padding: 4px;
+  width: 75%;
 }
 
 .highlight {
-  background-color: lightgoldenrodyellow;
+  background-color: lemonchiffon;
 }
 
+.about {
+  font-weight: bold;
+}
