@@ -2,6 +2,7 @@ p.intro {
   margin: 10px;
   font-style: italic;
   font-weight: bold;
+  font-size: large;
   color: darkblue;
   }
 
@@ -10,7 +11,8 @@ p.intro {
   background-color: lightpink;
   border: 2px solid yellow;
   padding: 4px;
-  width: 85%;
+  width: 90%;
+  font-weight: bold;
 }
 
 .highlight {
@@ -19,4 +21,8 @@ p.intro {
 
 .about {
   font-weight: bold;
+}
+
+.about img {
+  border: 2px solid green;
 }
